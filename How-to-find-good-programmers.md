@@ -18,3 +18,5 @@ In general there are a few guiding principals to follow
 	The specific answers do not matter, rather the attitude and knowledge in each of these categories reflect the capability of the programmer. 
 
 http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1416756681&sr=1-1&keywords=the+pragmatic+programmer
+
+![Alt text](C:\Users\Ayush Tainwala\Pictures\programmer)
